@@ -10,7 +10,8 @@
 
    1. 於 [**Releases**](https://github.com/notxart/AutoLLC/releases/latest) 下載 `AutoLLC.exe` 檔案。
    2. 左鍵雙擊 `AutoLLC.exe` 運行啟動器即可。\
-   ![Launcher](https://github.com/user-attachments/assets/e658d2d7-93fa-4842-ab9b-78f7effaaa62)
+   ![Launcher](https://github.com/user-attachments/assets/b1bb0952-4b3f-45cc-892d-198cdcbe4f47)
+
    3. 若出現類似 **NuGet provider is required to continue** 的資訊，請輸入 `y`，然後按下 `Enter` 鍵，繼續完成安裝。\
    ![Nuget](https://github.com/user-attachments/assets/713a9a53-9617-4af2-bd0f-f22f88240ba6)
 
@@ -52,3 +53,6 @@
 5. **使用者應自行備份相關數據及設置**，以防因使用本啟動器/腳本而引發的潛在問題。
 
 如有任何疑問或建議，請聯繫開發者。感謝您的理解與配合。
+
+
+
